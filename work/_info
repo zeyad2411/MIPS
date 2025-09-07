@@ -9,3 +9,25 @@ z2
 !i10f 100
 cModel Technology
 dC:/Users/User/Documents/Digital/Verification/Assignments/codes/Assignment_3
+vinstruction_memory
+!s110 1757276756
+!i10b 1
+!s100 fMGPoWC6>FX4M^6HcekHH0
+I]LgTQB=4@DIfjMW=XIUT40
+dC:/Users/User/Documents/My-Github/MIPS/MIPS
+w1757276752
+8C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
+FC:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
+!i122 0
+L0 1 14
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1757276756.000000
+!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
