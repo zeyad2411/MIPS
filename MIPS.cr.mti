@@ -1,0 +1,24 @@
+C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v {0 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module instruction_memory
+** Error: C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v(8): (vlog-2730) Undefined variable: 'pc'.
+
+} {4.0 5.0} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/control_unit.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/control_unit.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Wrapper.v {1 {vlog -work work -vopt -stats=none {C:\Users\User\Documents\My-Github\MIPS\MIPS\Wrapper.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_ext.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_ext.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+
+} {} {}}

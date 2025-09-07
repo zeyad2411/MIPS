@@ -5,7 +5,7 @@ module instruction_memory (
 
     reg [31:0] ROM [0:63]; // 64 x 32-bit ROM
 
-    always@(pc) begin
+    always@(A) begin
         $readmemh("program.mem", ROM);
     end
 
