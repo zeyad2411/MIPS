@@ -3,7 +3,7 @@ input clk,
 input areset,
 input load,
 input [31:0] PCNext,
-output [31:0] PC
+output reg [31:0] PC
 );
 
 always @(posedge clk or negedge areset) begin
