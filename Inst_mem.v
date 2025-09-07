@@ -3,7 +3,7 @@ module instruction_memory (
     output [31:0] RD       // Instruction
 );
 
-    reg [31:0] ROM [0:63]; // 64 x 32-bit ROM
+    reg [31:0] Inst_mem [0:63]; // 64 x 32-bit instruction memory 
 
     always@(A) begin
         $readmemh("program.mem", ROM);
