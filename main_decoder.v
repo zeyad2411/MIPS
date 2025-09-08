@@ -1,8 +1,8 @@
 module main_decoder ( opcode , Branch , ResultSrc , MemWrite , ALUSrc ,ImmSrc , RegWrite , ALUOp ) ;
 input [6:0] opcode ;
-output Branch , ResultSrc , MemWrite , ALUSrc  , RegWrite ;
-output [1:0] ImmSrc ;
-output [1:0] ALUOp ;
+output reg Branch , ResultSrc , MemWrite , ALUSrc  , RegWrite ;
+output reg [1:0] ImmSrc ;
+output reg [1:0] ALUOp ;
 
 
 always @(*) begin
