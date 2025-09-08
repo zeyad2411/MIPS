@@ -1,4 +1,4 @@
-module instruction_memory (
+module Instruction_memory (
     input  [31:0] A,       // Address from PC
     output [31:0] RD       // Instruction
 );

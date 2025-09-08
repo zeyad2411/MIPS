@@ -1,21 +1,50 @@
-C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v
+C:/Users/User/Documents/My-Github/MIPS/MIPS/Prog_counter.v {1 {vlog -work work -vopt -stats=none {C:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v}
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module Sign_exten
+-- Compiling module prog_counter
 
 Top level modules:
-	Sign_exten
+	prog_counter
 
 } {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/control_unit.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/control_unit.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
-
-} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module instruction_memory
+-- Compiling module control_unit
 
 Top level modules:
-	instruction_memory
+	control_unit
 
-} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Wrapper.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Wrapper.v
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v {1 {vlog -work work -vopt -stats=none {C:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v}
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Data_mem
+
+Top level modules:
+	Data_mem
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU_Dec.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU_Dec.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALU_Dec
+
+Top level modules:
+	ALU_Dec
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/main_decoder.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/main_decoder.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module main_decoder
+
+Top level modules:
+	main_decoder
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
 
 } {} {}}

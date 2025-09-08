@@ -3,7 +3,6 @@ input [31:0] Instr,
 input [1:0] ImmSrc,
 output reg [31:0] ImmExt
 );
-
 always@(*) begin
     case (ImmSrc) 
     2'b00: ImmExt = {{20{Instr[31]}},Instr[31:20]}; 
