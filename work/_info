@@ -8,201 +8,227 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Users/User/Documents/Digital/Verification/Assignments/codes/Assignment_3
-valu
-Z0 !s110 1757364141
-!i10b 1
-!s100 `_WWkS6Wdf9BUghEg>0;N1
-Ia>6d;5iFhjI?zmig10No40
-Z1 dC:/Users/User/Documents/My-Github/MIPS/MIPS
-w1757359743
-8C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v
-FC:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v
-!i122 42
-L0 1 32
-Z2 VDg1SIo80bB@j0V0VzS_@n1
-Z3 OL;L;2021.1;73
-r1
-!s85 0
-31
-Z4 !s108 1757364141.000000
-!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v|
-!i113 0
-Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-Z6 tCvgOpt 0
-vALU_Dec
-Z7 !s110 1757364142
-!i10b 1
-!s100 GUoo5Mn0]DbUc:7a320;P2
-IBe<5mT5KES6SO60B8:_Un0
-R1
-w1757363980
-8C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU_Dec.v
-FC:/Users/User/Documents/My-Github/MIPS/MIPS/ALU_Dec.v
-!i122 48
-L0 1 40
-R2
-R3
-r1
-!s85 0
-31
-Z8 !s108 1757364142.000000
-!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU_Dec.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU_Dec.v|
-!i113 0
-R5
-R6
-n@a@l@u_@dec
-vData_mem
+Z0 dC:/Users/User/Documents/Digital/Verification/Assignments/codes/Assignment_3
+<<<<<<< HEAD
+!s108 1757361389.000000
+!s107 D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v|
+Z1 =======
+Z2 !s108 1757364141.000000
+!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v|
 R0
-!i10b 1
-!s100 b?d[Gc>X`>d?5F0fI9@=01
-I>K_S61i`=Hj^:GhUmcN4@3
-R1
-w1757359815
-8C:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v
-FC:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v
-!i122 43
-L0 1 18
-R2
-R3
-r1
-!s85 0
-31
-R4
-!s107 C:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v|
-!i113 0
-R5
-R6
-n@data_mem
-vinstruction_memory
-R0
-!i10b 1
-!s100 fMGPoWC6>FX4M^6HcekHH0
-I]LgTQB=4@DIfjMW=XIUT40
-R1
-w1757276752
-8C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
-FC:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
-!i122 44
-L0 1 14
-R2
-R3
-r1
-!s85 0
-31
-R4
-!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v|
-!i113 0
-R5
-R6
-vmain_decoder
-R7
-!i10b 1
-!s100 AmJlh^=9m`o>@b8S25FY10
-Id?zQm3zFEfR_74HO_l7<o1
-R1
-w1757364136
-8C:/Users/User/Documents/My-Github/MIPS/MIPS/main_decoder.v
-FC:/Users/User/Documents/My-Github/MIPS/MIPS/main_decoder.v
-!i122 49
-L0 1 79
-R2
-R3
-r1
-!s85 0
-31
-R8
-!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/main_decoder.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/main_decoder.v|
-!i113 0
-R5
-R6
-vprog_counter
-R7
-!i10b 1
-!s100 Q7Y;9BYoDi<j7MC7LU[W;1
-IoK>h_::BN=5Yi@WQKHfTh1
-R1
-w1757360736
-8C:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v
-FC:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v
-!i122 46
-L0 1 19
-R2
-R3
-r1
-!s85 0
-31
-R8
-!s107 C:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v|
-!i113 0
-R5
-R6
-vreg_file
 <<<<<<< HEAD
 !s110 1757361389
 !i10b 1
-!s100 ?7ggYii^`[Hjo0S8G]>lI1
+Z3 !s100 ?7ggYii^`[Hjo0S8G]>lI1
 I=;mmn@8zN:5f2ZAg_MEh?3
-dD:/digital_track/PROJECTS/mips/my_githup/MIPS
+Z4 dD:/digital_track/PROJECTS/mips/my_githup/MIPS
 w1757361382
 8D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v
 FD:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v
 !i122 23
-=======
-R7
-!i10b 1
-!s100 ?7ggYii^`[Hjo0S8G]>lI1
-I]9QMaaP9_8=BenhOS[mV42
 R1
+Z5 !s110 1757364142
+!i10b 1
+R3
+I]9QMaaP9_8=BenhOS[mV42
+Z6 dC:/Users/User/Documents/My-Github/MIPS/MIPS
 w1757361562
 8C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v
 FC:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v
 !i122 45
 >>>>>>> a39dba32c070956b1f2a5405234e82a8747a1efe
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+R0
+>>>>>>> a39dba32c070956b1f2a5405234e82a8747a1efe
 L0 1 60
-R2
-R3
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
 r1
 !s85 0
 31
-<<<<<<< HEAD
-!s108 1757361389.000000
-!s107 D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v|
-=======
-R4
-!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v|
->>>>>>> a39dba32c070956b1f2a5405234e82a8747a1efe
-!i113 0
-R5
+R0
+valu
+Z11 !s110 1757364141
+!i10b 1
+!s100 `_WWkS6Wdf9BUghEg>0;N1
+Ia>6d;5iFhjI?zmig10No40
 R6
-vSign_exten
+w1757359743
+8C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v
+FC:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v
+!i122 42
+L0 1 32
+R9
+R10
+r1
+!s85 0
+31
+R2
+!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v|
+!i113 0
 R7
+R8
+vALU_Dec
+Z12 !s110 1757366967
+!i10b 1
+!s100 GUoo5Mn0]DbUc:7a320;P2
+I37iQl[a^zB@b:4`eg4`ZT3
+R4
+w1757364995
+8D:/digital_track/PROJECTS/mips/my_githup/MIPS/ALU_Dec.v
+FD:/digital_track/PROJECTS/mips/my_githup/MIPS/ALU_Dec.v
+!i122 50
+L0 1 40
+R9
+R10
+r1
+!s85 0
+31
+Z13 !s108 1757366967.000000
+!s107 D:/digital_track/PROJECTS/mips/my_githup/MIPS/ALU_Dec.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital_track/PROJECTS/mips/my_githup/MIPS/ALU_Dec.v|
+!i113 0
+R7
+R8
+n@a@l@u_@dec
+vcontrol_unit
+!s110 1757367150
+!i10b 1
+!s100 hZG<JDNYVOml?2BjOiW2=3
+IbL:]IGcNEEn5XEI??NQ960
+R4
+w1757367145
+8D:/digital_track/PROJECTS/mips/my_githup/MIPS/control_unit.v
+FD:/digital_track/PROJECTS/mips/my_githup/MIPS/control_unit.v
+!i122 52
+L0 1 64
+R9
+R10
+r1
+!s85 0
+31
+!s108 1757367150.000000
+!s107 D:/digital_track/PROJECTS/mips/my_githup/MIPS/control_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital_track/PROJECTS/mips/my_githup/MIPS/control_unit.v|
+!i113 0
+R7
+R8
+vData_mem
+R11
+!i10b 1
+!s100 b?d[Gc>X`>d?5F0fI9@=01
+I>K_S61i`=Hj^:GhUmcN4@3
+R6
+w1757359815
+8C:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v
+FC:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v
+!i122 43
+L0 1 18
+R9
+R10
+r1
+!s85 0
+31
+R2
+!s107 C:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\User\Documents\My-Github\MIPS\MIPS\Data_mem.v|
+!i113 0
+R7
+R8
+n@data_mem
+vinstruction_memory
+R11
+!i10b 1
+!s100 fMGPoWC6>FX4M^6HcekHH0
+I]LgTQB=4@DIfjMW=XIUT40
+R6
+w1757276752
+8C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
+FC:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
+!i122 44
+L0 1 14
+R9
+R10
+r1
+!s85 0
+31
+R2
+!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v|
+!i113 0
+R7
+R8
+vmain_decoder
+R12
+!i10b 1
+!s100 AmJlh^=9m`o>@b8S25FY10
+IjRb?ji9jF`aWMWB:0686R2
+R4
+w1757364907
+8D:/digital_track/PROJECTS/mips/my_githup/MIPS/main_decoder.v
+FD:/digital_track/PROJECTS/mips/my_githup/MIPS/main_decoder.v
+!i122 51
+L0 1 79
+R9
+R10
+r1
+!s85 0
+31
+R13
+!s107 D:/digital_track/PROJECTS/mips/my_githup/MIPS/main_decoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital_track/PROJECTS/mips/my_githup/MIPS/main_decoder.v|
+!i113 0
+R7
+R8
+vprog_counter
+R5
+!i10b 1
+!s100 Q7Y;9BYoDi<j7MC7LU[W;1
+IoK>h_::BN=5Yi@WQKHfTh1
+R6
+w1757360736
+8C:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v
+FC:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v
+!i122 46
+L0 1 19
+R9
+R10
+r1
+!s85 0
+31
+Z14 !s108 1757364142.000000
+!s107 C:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\User\Documents\My-Github\MIPS\MIPS\Prog_counter.v|
+!i113 0
+R7
+R8
+vreg_file
+R0
+vSign_exten
+R5
 !i10b 1
 !s100 2A@YOAHdoz2f_8RJh[2hh1
 IGU4D;_X<dl[9cG^kkdXNz2
-R1
+R6
 w1757359677
 8C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v
 FC:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v
 !i122 47
 L0 1 16
-R2
-R3
+R9
+R10
 r1
 !s85 0
 31
-R8
+R14
 !s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v|
 !i113 0
-R5
-R6
+R7
+R8
 n@sign_exten
