@@ -10,7 +10,7 @@ z2
 cModel Technology
 dC:/Users/User/Documents/Digital/Verification/Assignments/codes/Assignment_3
 vData_mem
-Z0 !s110 1757278132
+Z0 !s110 1757359681
 !i10b 1
 !s100 b?d[Gc>X`>d?5F0fI9@=01
 ISV:_<>_590H8n79kV[aa_1
@@ -18,14 +18,14 @@ Z1 dC:/Users/User/Documents/My-Github/MIPS/MIPS
 w1757276963
 8C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v
 FC:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v
-!i122 5
+!i122 14
 L0 1 18
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 Z3 OL;L;2021.1;73
 r1
 !s85 0
 31
-Z4 !s108 1757278132.000000
+Z4 !s108 1757359681.000000
 !s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v|
 !i113 0
@@ -41,7 +41,7 @@ R1
 w1757276752
 8C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
 FC:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
-!i122 6
+!i122 15
 L0 1 14
 R2
 R3
@@ -55,7 +55,7 @@ R4
 R5
 R6
 vprog_counter
-!s110 1757278133
+R0
 !i10b 1
 !s100 Q7Y;9BYoDi<j7MC7LU[W;1
 I;7@3WFURjPSYc5ee2o^hc0
@@ -63,16 +63,39 @@ R1
 w1757278127
 8C:/Users/User/Documents/My-Github/MIPS/MIPS/Prog_counter.v
 FC:/Users/User/Documents/My-Github/MIPS/MIPS/Prog_counter.v
-!i122 7
+!i122 16
 L0 1 19
 R2
 R3
 r1
 !s85 0
 31
-!s108 1757278133.000000
+R4
 !s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Prog_counter.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Prog_counter.v|
 !i113 0
 R5
 R6
+vSign_exten
+R0
+!i10b 1
+!s100 2A@YOAHdoz2f_8RJh[2hh1
+IGU4D;_X<dl[9cG^kkdXNz2
+R1
+w1757359677
+8C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v
+FC:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v
+!i122 17
+L0 1 16
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_exten.v|
+!i113 0
+R5
+R6
+n@sign_exten

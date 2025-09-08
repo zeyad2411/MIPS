@@ -5,12 +5,8 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 Top level modules:
 	prog_counter
 
-} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/control_unit.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/control_unit.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module Data_mem
-
-Top level modules:
-	Data_mem
 
 } {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Inst_mem.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
@@ -19,16 +15,17 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 Top level modules:
 	instruction_memory
 
-} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/control_unit.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/control_unit.v
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Data_mem.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Data_mem
+
+Top level modules:
+	Data_mem
+
+} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 
 } {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Wrapper.v {1 {vlog -work work -vopt -stats=none {C:\Users\User\Documents\My-Github\MIPS\MIPS\Wrapper.v}
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
-
-} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_ext.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Sign_ext.v
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
-
-} {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/Reg_file.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 
 } {} {}} C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/My-Github/MIPS/MIPS/ALU.v
