@@ -98,6 +98,28 @@ R4
 !i113 0
 R5
 R6
+vreg_file
+!s110 1757361389
+!i10b 1
+!s100 ?7ggYii^`[Hjo0S8G]>lI1
+I=;mmn@8zN:5f2ZAg_MEh?3
+dD:/digital_track/PROJECTS/mips/my_githup/MIPS
+w1757361382
+8D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v
+FD:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v
+!i122 23
+L0 1 60
+R2
+R3
+r1
+!s85 0
+31
+!s108 1757361389.000000
+!s107 D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v|
+!i113 0
+R5
+R6
 vSign_exten
 R0
 !i10b 1
