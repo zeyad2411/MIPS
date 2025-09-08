@@ -1,5 +1,7 @@
-module reg_file ( clk , rst_n , A1 , A2 , A3 , WD3 , RD1 , RD2 ) ;
-    input clk , rst_n ,WE  ; 
+module reg_file ( clk , rst_n , WE, A1 , A2 , A3 , WD3 , RD1 , RD2 ) ;
+    input clk ;
+    input  rst_n; 
+    input WE ; 
     input  [4:0] A1 , A2 , A3 ; 
     input  [31:0] WD3 ;
     output [31:0] RD1 , RD2  ;
