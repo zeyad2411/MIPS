@@ -1,6 +1,12 @@
 m255
 K4
 z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
 !s11f vlog 2021.1 2021.01, Jan 19 2021
 13
 !s112 1.1
@@ -8,4 +14,91 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/Users/User/Documents/Digital/Verification/Assignments/codes/Assignment_3
+Z1 dC:/Users/User/Documents/Digital/Verification/Assignments/codes/Assignment_3
+T_opt
+!s110 1757277342
+Vckc>SA`i<hX1VB<0bCc0J2
+04 6 4 work alu_tb fast 0
+=1-f89e94f74eff-68bdec9e-d0-30a4
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1757279351
+V=gn]dJ1OS<YPH[^>K[IR_3
+04 8 4 work reg_file fast 0
+=1-f89e94f74eff-68bdf477-1ee-37b4
+R2
+R3
+R4
+n@_opt1
+R5
+valu
+Z6 !s110 1757277335
+!i10b 1
+!s100 `_WWkS6Wdf9BUghEg>0;N1
+I3lhG:m>b`KZINJ1<VgnZk1
+Z7 dD:/digital_track/PROJECTS/mips/my_githup/MIPS
+w1757276761
+8ALU.v
+FALU.v
+!i122 4
+L0 1 32
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1757277335.000000
+Z11 !s107 alu_tb.v|ALU.v|
+Z12 !s90 -reportprogress|300|ALU.v|alu_tb.v|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+valu_tb
+R6
+!i10b 1
+!s100 Zb1<Z>d9I>Ejm1CLSoTQO1
+Ib>zhoLjTFjTJg^f3?UW^Q3
+R7
+w1757277327
+8alu_tb.v
+Falu_tb.v
+!i122 4
+L0 1 38
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R4
+vreg_file
+!s110 1757279328
+!i10b 1
+!s100 i15?34A1hA?A@Q9oIVd2n0
+I?iE13kzYP1[Y?fH6aC1IP1
+R7
+w1757279323
+8D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v
+FD:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v
+!i122 5
+L0 1 58
+R8
+R9
+r1
+!s85 0
+31
+!s108 1757279328.000000
+!s107 D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/digital_track/PROJECTS/mips/my_githup/MIPS/Reg_file.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
